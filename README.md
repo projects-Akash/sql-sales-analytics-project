@@ -15,7 +15,6 @@ Dimension tables:
 
 ⚙️ Tools Used
 SQL (T-SQL)
-(Optional later: Power BI)
 
 
 📈 Key Analysis Performed
