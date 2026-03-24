@@ -1,39 +1,73 @@
-## 📊 Sales & Customer Analytics using SQL
-
-### 📌 Objective
-Analyze retail sales data to understand customer behavior, product performance, and business trends.
+# 📊 Retail Sales Analytics & Customer Segmentation using SQL
 
 ---
 
-### 🧱 Dataset
-- Fact table: `fact_sales`
-- Dimension tables:
-  - `dim_customers`
-  - `dim_products`
+## 📌 Objective
+Analyze retail sales data to uncover insights on customer behavior, product performance, and business trends using SQL.
 
 ---
 
-### ⚙️ Tools Used
+## 🧱 Data Model
+- **Fact Table**: `fact_sales`  
+- **Dimension Tables**:  
+  - `dim_customers`  
+  - `dim_products`  
+
+---
+
+## ⚙️ Tools & Techniques
 - SQL (T-SQL)
+- Data Modeling (Fact-Dimension Schema)
+- Analytical Querying & KPI Development
 
 ---
 
-### 📈 Key Analysis Performed
-- Exploratory Data Analysis (EDA)
-- Time-based trend analysis
-- Customer segmentation (VIP, Regular, New)
-- Product performance analysis
-- KPI calculations (AOV, recency, revenue)
+## 🏗️ Project Structure
+sql-sales-analytics-project/
+│
+├── eda.sql                  # Exploratory analysis
+├── advanced_analysis.sql    # Advanced analytics & reporting
+└── README.md
 
 ---
 
-### 🔍 Key Insights
+## 📈 Key Analysis
+- Performed EDA to understand data structure and key business metrics  
+- Conducted time-based analysis to identify trends and seasonality  
+- Analyzed product and customer performance using ranking techniques  
+- Built customer segmentation (VIP, Regular, New) based on lifecycle and spending  
+- Developed KPI-driven reporting using reusable SQL views  
+
+---
+
+## 🚀 Advanced Techniques
+- Window Functions (LAG, DENSE_RANK, Running Totals)
+- Common Table Expressions (CTEs)
+- Time-Series Analysis
+- Customer & Product Segmentation
+- KPI Engineering (AOV, Recency, Monthly Revenue)
+
+---
+
+## 🔍 Key Insights
 - Revenue is concentrated among top-performing products  
 - A small segment of customers contributes significantly to total sales  
-- Seasonal patterns observed in monthly sales  
+- Seasonal trends observed in monthly sales patterns  
+- Performance varies across product categories, indicating optimization opportunities  
 
 ---
 
-### 📁 Files
-- `eda.sql` → Basic exploration  
-- `advanced_analysis.sql` → Advanced analytics & reporting
+## 📁 Files
+- `eda.sql` → Exploratory analysis  
+- `advanced_analysis.sql` → Advanced analytics & reporting  
+
+---
+
+## 📌 Future Scope
+- Build Power BI dashboard for visualization  
+- Add cohort and retention analysis  
+
+---
+
+## 🔗 Project Link
+https://github.com/projects-Akash/sql-sales-analytics-project
