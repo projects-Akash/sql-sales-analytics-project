@@ -3,7 +3,7 @@
 ---
 
 ## 📌 Objective
-Analyze retail sales data to uncover insights on customer behavior, product performance, and business trends using SQL.
+Analyze retail sales data to derive actionable insights on customer behavior, product performance, and business trends using SQL.
 
 ---
 
@@ -22,12 +22,9 @@ Analyze retail sales data to uncover insights on customer behavior, product perf
 
 ---
 
-## 🏗️ Project Structure
-sql-sales-analytics-project/
-│
-├── eda.sql                  # Exploratory analysis
-├── advanced_analysis.sql    # Advanced analytics & reporting
-└── README.md
+## 📁 Files
+- `eda.sql` → Exploratory analysis  
+- `advanced_analysis.sql` → Advanced analytics & reporting  
 
 ---
 
@@ -50,22 +47,10 @@ sql-sales-analytics-project/
 ---
 
 ## 🔍 Key Insights
-- Revenue is concentrated among top-performing products  
+- Revenue is heavily concentrated among a small set of top-performing products
 - A small segment of customers contributes significantly to total sales  
 - Seasonal trends observed in monthly sales patterns  
 - Performance varies across product categories, indicating optimization opportunities  
-
----
-
-## 📁 Files
-- `eda.sql` → Exploratory analysis  
-- `advanced_analysis.sql` → Advanced analytics & reporting  
-
----
-
-## 📌 Future Scope
-- Build Power BI dashboard for visualization  
-- Add cohort and retention analysis  
 
 ---
 
