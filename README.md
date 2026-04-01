@@ -48,7 +48,11 @@ Analyze retail sales data to uncover insights on customer behavior, product perf
 ## 📊 Power BI Dashboard
 
 ![Dashboard](images/BI_Dashboard_1.png)
+
+Dashboard with product category 'Bike', for 'VIP' customers in year 2012.
 ![Dashboard](images/BI_Dashboard_2.png)
+
+BI Report on phone
 ![Dashboard](images/BI_Phone_Dashboard_1.png)
 ![Dashboard](images/BI_Phone_Dashboard_2.png)
 
