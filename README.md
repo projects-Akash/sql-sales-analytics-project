@@ -47,7 +47,7 @@ Analyze retail sales data to uncover insights on customer behavior, product perf
 
 ## 📊 Power BI Dashboard
 
-![Dashboard](images/BI Dashboard SS1.png)
+![Dashboard](images/BI_Dashboard_1.png)
 <img width="1306" height="735" alt="BI Dashboard SS1" src="https://github.com/user-attachments/assets/b0237620-2f65-4336-b3a7-a998da827979" />
 
 ---
